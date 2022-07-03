@@ -551,20 +551,10 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
     throw e
   }
 }
-handler.help = ['menu', 'help', '?']
-handler.tags = ['main']
-handler.command = /^(menu|help|\?)$/i
-handler.owner = false
-handler.mods = false
-handler.premium = false
-handler.group = false
-handler.private = false
-
-handler.admin = false
-handler.botAdmin = false
-
-handler.fail = null
-handler.exp = 3
+handler.tags = ['main', 'info']
+handler.customPrefix = /^(menu|help|.menu|.help)$/i
+handler.help = ['.menu']
+handler.command = new RegExp
 
 module.exports = handler
 

@@ -5,11 +5,9 @@ let handler = async (m, { text }) => {
   if (json.success) m.reply(json.success)
   else throw json
 }
-handler.tags = ['fun', 'main']
-handler.customPrefix = /^(sim|simi|simih|.simih|.simi)$/i
-handler.help = ['.simi']
-handler.command = new RegExp
+handler.help = ['simi', 'simsimi', 'simih'].map(v => v + ' <teks>')
+handler.tags = ['fun']
+handler.command = /^((sim)?simi|simih)$/i
 
 module.exports = handler
 
-module.exports = handler

@@ -23,8 +23,8 @@
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r R-TXZY-VR $HOME
-> cd R-TXZY-VR
+> cp -r BOTWA-2022 $HOME
+> cd BOTWA-2022
 > npm i
 > node run.js
 ```

@@ -6,7 +6,7 @@
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 | **Node.js [salin]**     | heroku/nodejs|
 
-⚠️
+⚠️ SESSION NYA DI wamd.data.json ⚠️
 
 ## CARA INSTALL DI TERMUX
 ```bash

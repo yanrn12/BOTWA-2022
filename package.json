@@ -1,5 +1,5 @@
 {
-    "name": "Shiro-md",
+    "name": "samplebot",
     "version": "3.5.4",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
@@ -23,16 +23,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Hyzerr/MD-V3",
+    "homepage": "https://github.com/BOTCAHX/BOTWA-2022",
     "author": {
-        "name": "Elyas"
+        "name": "BTCH"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/github.com/Hyzerr/MD-V3.git"
+        "url": "git+https://github.com/github.com/BOTCAHX/BOTWA-2022.git"
     },
     "bugs": {
-        "url": "https://github.com/github.com/Hyzerr/MD-V3/issues"
+        "url": "https://github.com/github.com/BOTCAHX/BOTWA-2022/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

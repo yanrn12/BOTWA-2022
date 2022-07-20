@@ -17,8 +17,8 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/BOTCAHX/R-TXZY-VR
-> cd R-TXZY-VR
+> git clone https://github.com/BOTCAHX/BOTWA-2022
+> cd BOTWA-2022
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
@@ -31,8 +31,6 @@
 
 ## THANKS TO 
  [`Baileys`](https://github.com/adiwajshing/Baileys)
-
- [`AlyaXzy`](https://wa.me/6289505165400)
 
  [`BOTCAHX`](https://wa.me/6282221792667)
 

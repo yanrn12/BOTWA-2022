@@ -2,8 +2,8 @@
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **FFMPEG** |[here](https://github.com/xdlyy404/heroku-buildpack-ffmpeg-latest) |
+| **FFMPEG frobe** | [here](https://github.com/HasibulKabir/heroku-buildpack-ffmpeg-ffprobe) |
 | **Node.js [salin]**     | heroku/nodejs|
 
 ⚠️ SESSION NYA DI wamd.data.json ⚠️
